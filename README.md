@@ -19,4 +19,4 @@ The proposed system provides an effective solution for detecting fraudulent huma
 
 **Flowchart:**
 
-![Flowchart](https://github.com/user-attachments/assets/5139b709-def1-43a1-b437-08b7b73c9327)
+![Flowchart1](https://github.com/user-attachments/assets/9fe645d4-1256-49f4-844b-5ad6cdfc56eb)
