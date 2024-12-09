@@ -1,7 +1,7 @@
 # Fraudulent-Movement-Detection
 The proposed system provides an effective solution for detecting fraudulent human movements and maintaining discipline in various environments. The system can be applied to various settings, such as examination halls, security cabins, and offices, to prevent violations of established rules and regulations and improve security. Furthermore, the system's open-source nature makes it accessible to a broader audience and encourages further research in the field of fraudulent human movement detection
 
-**Methodology**
+**Methodology:**
 
 •	Data collection: The first step involves collecting video data from the cameras installed in the examination halls or security cabins. The data is collected in real-time and saved in a specific format that can be used for analysis.
 
@@ -16,3 +16,7 @@ The proposed system provides an effective solution for detecting fraudulent huma
 •	Alert generation: Once fraudulent movement is detected, an alert is generated, and appropriate action is taken to maintain discipline in the setting.
 
 •	The proposed methodology can enhance the safety and security of individuals in various settings, including examination halls and security cabins. 
+
+**Flowchart:**
+
+![Flowchart](https://github.com/user-attachments/assets/5139b709-def1-43a1-b437-08b7b73c9327)
